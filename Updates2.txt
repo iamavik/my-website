@@ -1,0 +1,2 @@
+This is the second update file 
+created in the local updates branch which will be pushed to remote repository
